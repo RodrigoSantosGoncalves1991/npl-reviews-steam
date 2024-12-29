@@ -1,3 +1,7 @@
+# Vídeos das apresentações
+ - [Apresentação de Trabalho da disciplina: Processamento de Linguagem Natural com Deep Learning](https://www.youtube.com/watch?v=DQalRiW9tkQ)
+ - [Script do Webscraper em funcionamento](https://www.youtube.com/watch?v=WFKFqMN_Fr8)
+
 # NPL Reviews Steam
 
 Este projeto combina a coleta de reviews da Steam com abordagens de aprendizado de máquina e processamento de linguagem natural (NLP). Ele oferece ferramentas para realizar análise de sentimentos, classificação de texto e experimentações com modelos de aprendizado.
